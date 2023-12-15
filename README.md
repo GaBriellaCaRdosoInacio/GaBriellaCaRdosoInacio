@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaBriellaCaRdosoInacios&include_all_commits=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaBriellaCaRdosoInacio&include_all_commits=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
