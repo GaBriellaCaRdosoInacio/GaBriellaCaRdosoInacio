@@ -1,3 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaBriellaCaRdosoInacio&count_private=true&include_all_commits=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)](https://github.com/GaBriellaCaRdosoInacio)
-[![Total de Pull Requests](https://img.shields.io/github/issues-pr/GaBriellaCaRdosoInacio/GaBriellaCaRdosoInacio)](https://github.com/GaBriellaCaRdosoInacio/GaBriellaCaRdosoInacio/pulls?q=is%3Apr+is%3Aopen)
-[![Pull Requests no Último Ano](https://img.shields.io/github/issues-pr/GaBriellaCaRdosoInacio/GaBriellaCaRdosoInacio?since=1%20year%20ago)](https://github.com/GaBriellaCaRdosoInacio/GaBriellaCaRdosoInacio/pulls?q=is%3Apr+is%3Aopen+created%3A%3E2022-12-14T00%3A00%3A00Z)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaBriellaCaRdosoInacio&count_private=true&include_all_commits=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
