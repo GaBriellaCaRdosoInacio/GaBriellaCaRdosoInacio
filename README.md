@@ -1,6 +1,6 @@
 Olá
 
-<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
+![GIF](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
  
 Me chamo Gabriella, estou cursando o segundo ano de Sistemas de Informação na São Paulo Tech School 😄
 
