@@ -23,7 +23,3 @@ Me chamo Gabriella, estou cursando o segundo ano de Sistemas de Informação na 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaBriellaCaRdosoInacio&count_private=true&include_all_commits=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
 
-<br>
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/GaBriellaCaRdosoInacio/github-stats-transparent/output/generated/overview.svg" alt="GaBriellaCaRdosoInacio" align="right" />
-</a>
