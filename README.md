@@ -3,7 +3,7 @@ Olá 💻📌
 ![GIF](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
  
 Me chamo Gabriella, estou cursando o segundo ano de Sistemas de Informação na São Paulo Tech School 😄
-
+<br>
 - Linguagens: <br><br>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"></code>
