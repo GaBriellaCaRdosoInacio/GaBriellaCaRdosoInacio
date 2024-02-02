@@ -2,7 +2,7 @@
 
 ![GIF](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
-Me chamo Gabriella, estou cursando o segundo ano de Sistemas de Informação na São Paulo Tech School 😄
+<h2>Me chamo Gabriella, estou cursando o segundo ano de Sistemas de Informação na São Paulo Tech School 😄</h2>
 
 ## Linguagens e Tecnologias:
 
