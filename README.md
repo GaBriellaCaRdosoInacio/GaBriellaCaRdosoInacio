@@ -25,5 +25,5 @@ Me chamo Gabriella, estou cursando o segundo ano de Sistemas de Informação na 
 
 <br>
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/GaBriellaCaRdosoInacio/github-stats-transparent/output/generated/overview.svg" alt="GaBriellaCaRdosoInacio" align="right" />
 </a>
