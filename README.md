@@ -4,7 +4,7 @@
 
 Me chamo Gabriella, estou cursando o segundo ano de Sistemas de Informação na São Paulo Tech School 😄
 
-## Linguagens e Tecnologias:
+## Linguagens e Tecnologias: 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin"></code>
